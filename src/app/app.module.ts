@@ -7,7 +7,6 @@ import { HelloComponent } from './hello.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule 
-  MatIconModule
 , MatButtonModule ],
 
   declarations: [ AppComponent, HelloComponent ],
